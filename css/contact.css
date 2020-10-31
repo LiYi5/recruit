@@ -1,4 +1,4 @@
-body {
+shbody {
 	display: flex;
 	flex-direction: column;
 	height: 100%;
@@ -114,8 +114,8 @@ body {
 }
 .footer-box {
 	text-align: center;
-	height:100px; 
-    background: #212529; 
+	height:100px;
+    background: #212529;
 	margin-bottom:0px;
 }
 .zhushi{
